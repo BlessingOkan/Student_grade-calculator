@@ -1,2 +1,0 @@
-#Declaring and Manipulating Information
-
