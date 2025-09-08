@@ -4,6 +4,9 @@ This project is a simple Python program that calculates student averages, assign
 
 It was built as part of **CST 205 – Introduction to Programming with Python**.  
 
+## Screencast
+
+🎥 [Watch my Screencast here](https://go.screenpal.com/watch/cTQjfMno0Tx)
 ---
 
 ## Features
